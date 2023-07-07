@@ -5460,15 +5460,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Another day, again in the classroom.
 
-    
 
-    This time, you keep
-    thinking, but you are really determined.
 
-    
+    This time, you keep thinking,
+    but you are really determined.
 
-    You just wait until the
-    school day is over to finish this over.'
+
+
+    You just wait until the school day is over
+    to finish this over.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8b4cc915debeacb4fb6c153dea3aa391, type: 2}
   m_sharedMaterial: {fileID: 7761465658362798714, guid: 8b4cc915debeacb4fb6c153dea3aa391, type: 2}
@@ -12421,7 +12421,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &572384021
 RectTransform:
   m_ObjectHideFlags: 0
